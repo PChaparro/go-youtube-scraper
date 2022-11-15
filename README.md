@@ -1,6 +1,9 @@
 # Youtube scraper
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/PChaparro/go-youtube-scraper)](https://goreportcard.com/report/github.com/PChaparro/go-youtube-scraper)
+<div>
+  <img src="https://goreportcard.com/badge/github.com/PChaparro/go-youtube-scraper" alt="Go report badge" />
+  <img src="https://pkg.go.dev/badge/github.com/PChaparro/go-youtube-scraper.svg" alt="Go reference badge" />
+</div>
 
 **⚠️ Note:** Diagrams are only rendered in github.
 
